@@ -1,0 +1,18 @@
+
+
+body{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: #000;
+     height: 100vh;
+     font-size: 50px;
+     color:#fff;
+}
+
+#timer{
+     border: 2px solid white;
+     padding: 20px;
+     border-radius: 10px;
+
+}
